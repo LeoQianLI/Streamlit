@@ -3,6 +3,7 @@
 This project demonstrates data manipulation and visualization using **Streamlit**, **Seaborn**, and **Matplotlib**. 
 The app allows users to explore a dataset of flight statistics and create various types of visualizations interactively.
 
+Open the app in your browser. It should run at http://localhost:8501.
 ---
 
 ## Features
